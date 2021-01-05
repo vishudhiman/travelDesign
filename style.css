@@ -186,6 +186,7 @@
 }
 .copyright {
   margin-top: 100px;
+  z-index: 1;
 }
 /* Contact form */
 .form {
